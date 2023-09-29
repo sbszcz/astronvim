@@ -13,4 +13,9 @@ return {
     "unblevable/quick-scope",
     event = "BufRead",
   },
+  {
+    "catppuccin/nvim",
+    name = "catppuccin",
+    priority = 1000,
+  },
 }
