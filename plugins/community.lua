@@ -6,4 +6,5 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.java" },
 }
