@@ -8,6 +8,7 @@ return {
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = false, -- sets vim.opt.wrap
     showtabline = 0, -- hides the tabs
+    laststatus = 2, -- disable global statusbar, each window/buffer displays its own statusbar
   },
   g = {
     mapleader = " ", -- sets vim.g.mapleader
